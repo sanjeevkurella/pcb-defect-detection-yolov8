@@ -1,5 +1,3 @@
-# pcb-defect-detection-yolov8
-AI-based PCB defect detection using YOLOv8 with real-time inference
 # AI-Based PCB Defect Detection using YOLOv8
 
 ## Overview
